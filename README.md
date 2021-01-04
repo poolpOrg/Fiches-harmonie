@@ -1,6 +1,7 @@
 # Fiches-harmonie
 
-Mes fiches de lecture pour les bases de l'harmonie.
+Mes fiches de lecture condensées sur l'ouvrage "les bases de l'harmonie" de P.Ganter,
+avec quelques notes personnelles.
 
 
 # ToC
