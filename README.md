@@ -10,3 +10,4 @@ avec quelques notes personnelles.
 - [Intervalles et harmonie](03-Intervalles-et-harmonie.md)
 - [Accords de trois notes](04-Accords-de-trois-notes.md)
 - [Triades et harmonie](05-Triades-et-harmonie.md)
+- [Accords de septième](06-Accords-de-septieme.md)
