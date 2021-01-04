@@ -1,4 +1,4 @@
-# Fiches-harmonie
+# Harmonie
 
 Mes fiches de lecture condensées sur l'ouvrage "les bases de l'harmonie" de P.Ganter,
 avec quelques notes personnelles.
