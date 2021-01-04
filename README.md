@@ -8,4 +8,4 @@ Mes fiches de lecture pour les bases de l'harmonie.
 - [Utilisation des intervalles](02-Utilisation-des-intervalles.md)
 - [Intervalles et harmonie](03-Intervalles-et-harmonie.md)
 - [Accords de trois notes](04-Accords-de-trois-notes.md)
-- [Triades et harmonie[(05-Triades-et-harmonie.md)
+- [Triades et harmonie](05-Triades-et-harmonie.md)
